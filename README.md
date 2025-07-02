@@ -16,5 +16,5 @@ A simple .NET 8 demo application showcasing **Domain-Driven Design (DDD)** and *
 
 ## How To Run + Test
 
-The project has Swagger support to test the endpoints manually. Alternatively you can the provided unit tests.
+The project has Swagger support to test the endpoints manually. Alternatively you can run the provided unit tests.
 
