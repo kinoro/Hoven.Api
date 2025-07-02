@@ -1,0 +1,107 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.swp
+
+# Visual Studio Code
+.vscode/
+.vs/
+
+# Rider
+.idea/
+
+# DotCover
+.idea.DotSettings.user
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+*.vspx
+*.vsp
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+
+# Logs
+*.log
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+*.nuspec
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET
+wwwroot/
+
+# Entity Framework Migrations
+Migrations/
+
+# DotNet CLI
+project.assets.json
+
+# Publish artifacts
+publish/
+*.publish.xml
+
+# User secrets
+secrets.json
+
+# Azure Functions
+.local.settings.json
+
+# Temporary files
+~$*
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Rider logs
+.idea/
+
+# VS Mac
+*.userprefs
+
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+# Rider
+.idea/
+
+# Docker
+**/*.pid
+
+# npm
+node_modules/
+
+# Yarn
+.yarn/
+.pnp.*
+
+# JetBrains Rider
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
